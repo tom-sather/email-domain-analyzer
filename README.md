@@ -28,7 +28,7 @@ A comprehensive email domain analysis tool that combines MX lookup, DNS validati
 1. **Clone or download the script:**
    ```bash
    git clone <repository-url>
-   cd NewMXTool
+ 
    ```
 
 2. **Install dependencies:**
